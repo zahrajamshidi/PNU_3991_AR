@@ -6,7 +6,7 @@
 
 # GitHub/
 
-# JavaScipt Certificates/
+# JavaScript Certificates/
 
 زهرا جمشیدی
 
